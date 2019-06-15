@@ -52,10 +52,9 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
+    bgImage = "images/slider/ab.jpg"
     heading = "Experience the new reality"
-    content= "Best tiles and marbles"
+    content = "with 60 live mockups for your easy choice"
     btn = true
     btnText="Explore Us"
     btnURL="#services"
@@ -65,7 +64,7 @@ custom_css = ["css/custom.css"]
     enable = true
     title = "Great Design & Incredible Features"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
+    btnURL = "#contact-us"
     btnText = "Start a project with us"
 
     # counter

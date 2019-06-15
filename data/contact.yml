@@ -1,0 +1,17 @@
+enable: true
+heading: Get In
+headingSpan: Touch
+title: Contact Details
+content:
+enable_maps: true
+mapLatitude: 51.5223477
+mapLongitude: -0.1622023
+contactDetails:
+  - icon: tf-map-pin
+    info: "Plot No. 18, Wholesale Marble Market, VPO Opp. Sterling Resort, Pakhowal Rd, Dad, Punjab 141021"
+
+  - icon: tf-ion-ios-telephone-outline
+    info: "Phone: +91 9216182824"
+
+  - icon: tf-ion-ios-email-outline
+    info: "Email: rajkamalmarbles@gmail.com"
